@@ -3,7 +3,7 @@ import re
 from PIL import Image, ImageDraw, ImageFont
 
 #  作者不承担任何法律责任！The author assumes no legal liability！
-#  仅供学习交流使用，严禁用于其他用途！
+#  仅供学习交流使用，严禁用于其他用途
 #  For learning and communication only, other use is strictly prohibited！
 
 
